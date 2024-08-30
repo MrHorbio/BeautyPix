@@ -20,6 +20,4 @@ pip install -r requirements.txt
 python beautypix.py
 ```
 # Usage
-<imgs src=
-
-
+![Screenshot](https://github.com/MrHorbio/BeautyPix/blob/main/Screenshot%202024-08-31%20023604.png)
