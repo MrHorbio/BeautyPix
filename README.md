@@ -1,3 +1,4 @@
+![Screenshot](https://github.com/MrHorbio/BeautyPix/blob/main/logo.png)
 # BeautyPix
 Beautypix is an essential tool for bug hunters and cybersecurity experts. It offers several features designed to simplify the process of finding and documenting security issues. Here’s a summary of its main functions:
 ### Screenshot Capture for Subdomains and Domains:
